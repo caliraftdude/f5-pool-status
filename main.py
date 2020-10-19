@@ -17,7 +17,7 @@
 # CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE 
 # OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ########################################################################################
-# f5-pool-state
+# f5-pool-status
 #
 # author:   Dan Holland
 # date:     2020.10.16
